@@ -8,4 +8,4 @@
 AS根目录\plugins\android\lib\templates\activities
 下，重启studio即可使用
 
-这种MVP模板文件都不具有通用性，需要按照自己的格式进行一定的修改，仅供参考</br>缺基类就去我上传的app中找
+这种MVP模板文件都不具有通用性，需要按照自己的格式进行一定的修改，仅供参考</br>缺基类就去我上传的app中找</br>此模板参考hongyang大神及小芳的博客
